@@ -5,6 +5,7 @@ body{
     overflow-y: auto;
 }
 h1{
+    text-align: center;
     font-size: 70px;
 }
 h2{
@@ -41,6 +42,8 @@ a:active{
     z-index: -5;
     background-repeat: repeat-x; 
 }
+
+
 .center{
     text-align: center;
     justify-content: center;
